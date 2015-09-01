@@ -1,6 +1,7 @@
 name: yellowstone-minimal
 favicon: null
-layout_spectrum: 0.24
+layout_spectrum: 0.23333
+typography_spectrum: 0.19
 cta:
   domain: null
   bucket: null
@@ -20,9 +21,9 @@ color:
     - '#cbc0be'
     - '#858482'
     - '#616159'
-  brandStrength: 0
+  brandStrength: 0.4375
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0
   rhythmicContrast: 0.5
 purpose:
   - name: follow
