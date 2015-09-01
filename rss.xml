@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yellowstone-minimal]]></title>
+        <description><![CDATA[yellowstone-minimal]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Sep 2015 17:38:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yellowstone National Park Photos - National Geographic]]></title>
+            <description><![CDATA[<article><h1>Yellowstone National Park Photos - National Geographic</h1><p>Yellowstone National Park photos and pictures of culture, history, and travel from National Geographic.</p><img src="http://travel.nationalgeographic.com/u/TvyamNb-BivtNwpvn7Sct0VFDulyAfA9wBcU0gVHVnqC5ghsgrxzYMzmJ-nJ8jewv3Sb4HFclA3Ocvj_9g/"></article>]]></description>
+            <link>http://travel.nationalgeographic.com/travel/national-parks/yellowstone-photos/#/08-AR2588-001-yellowstone_2084_600x450.jpg</link>
+            <guid isPermaLink="false">47c8feca-2bd2-4e10-80e8-e522ab0c7c54</guid>
+            <pubDate>Tue, 01 Sep 2015 17:38:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
